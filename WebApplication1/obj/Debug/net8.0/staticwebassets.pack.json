@@ -21,12 +21,24 @@
       "PackagePath": "staticwebassets\\img\\brand-awareness.png"
     },
     {
+      "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\chair-led.png",
+      "PackagePath": "staticwebassets\\img\\chair-led.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\chair.png",
+      "PackagePath": "staticwebassets\\img\\chair.png"
+    },
+    {
       "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\communication.png",
       "PackagePath": "staticwebassets\\img\\communication.png"
     },
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\hero.jpg",
       "PackagePath": "staticwebassets\\img\\hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\hero22.png",
+      "PackagePath": "staticwebassets\\img\\hero22.png"
     },
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\instagram.png",
@@ -39,6 +51,10 @@
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\man.png",
       "PackagePath": "staticwebassets\\img\\man.png"
+    },
+    {
+      "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\pngtree-cartoon.png",
+      "PackagePath": "staticwebassets\\img\\pngtree-cartoon.png"
     },
     {
       "Id": "C:\\Users\\DELL\\source\\repos\\WebApplication1\\WebApplication1\\wwwroot\\img\\twitter.png",
